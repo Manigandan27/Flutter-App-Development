@@ -4,13 +4,16 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+[!] Visual Studio - develop Windows apps (Visual Studio Community 2019 16.11.17)
 
-A few resources to get you started if this is your first Flutter project:
+## Description
+This Flutter project allows users to fetch their current location and display the corresponding address.
+Additionally, it fetches data from an API and presents it in a list view.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## To run the app :
+Clone this repository.
+Open the project in your preferred Flutter IDE.
+Run flutter pub get to install dependencies.
+Connect a device or use an emulator.
+Run the app using flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
